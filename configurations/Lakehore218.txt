@@ -1,0 +1,5 @@
+Variable;Valor
+Baud;9600
+PORT;COM4
+active_channels(ch1,ch2,...);1,2
+channel_types(subch1,subch2,...);sd,sd

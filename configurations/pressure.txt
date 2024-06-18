@@ -1,0 +1,3 @@
+Unnamed: 0;Unnamed: 0.1;Variable;Valor
+0;0;Baudrate(integer);9600
+1;1;Port;COM8

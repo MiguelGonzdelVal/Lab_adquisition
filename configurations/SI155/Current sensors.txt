@@ -1,0 +1,9 @@
+Sensor_name,Type,FBG_associated,Variation_reference,equation_type,A,B,C,D
+A1,strain,FBG_A1,True,linear,1.25,0,,
+A2,strain,FBG_A2,True,linear,1.25,0,,
+A3,strain,FBG_A3,True,linear,1.25,0,,
+A4,strain,FBG_A4,True,linear,1.25,0,,
+B1,strain,FBG_B1,True,linear,1.25,0,,
+B2,strain,FBG_B2,True,linear,1.25,0,,
+B3,strain,FBG_B3,True,linear,1.25,0,,
+B4,strain,FBG_B4,True,linear,1.25,0,,

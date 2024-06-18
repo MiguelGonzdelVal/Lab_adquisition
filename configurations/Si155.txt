@@ -1,0 +1,4 @@
+Variable;Valor
+server_address('xxx.xxx.x.xxx');10.0.0.55
+active_channels(ch1,ch2,...);1,2,3,4
+spectrum_ad(True,False);True
