@@ -1,2 +1,2 @@
-# Lab_adquisition
-Software for lab adquisisiton
+# Adquisicion_lab
+Programa de adquisicion de datos de AMC
